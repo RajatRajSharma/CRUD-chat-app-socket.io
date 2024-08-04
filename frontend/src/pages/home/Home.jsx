@@ -19,7 +19,7 @@ const Home = () => {
         className={`flex flex-col ${
           isCollapsed ? "w-[85%]" : "w-[50%]"
         } md:min-w-[450px] `}
-        style={{ minHeight: "550px" }}
+        style={{ height: "auto" }}
       >
         <MessageContainer />
       </div>
