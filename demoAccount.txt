@@ -1,0 +1,13 @@
+username: Rajat Personal , password: Rajat3030
+username: Rajat student , password: Rajat@123
+username: Sarthak Raina , password: sarthak
+username: Amit Kamt , password: amit
+
+>npm i
+>npm run server                  // to run server : 5000
+
+>frontend >npmi
+>frontend >npm run dev           // to run client : 3000
+
+>npm run build                   // to build a dist file , whose routes can be run through server 
+>npm start                       // both server and client on 5000
