@@ -10,6 +10,7 @@ const Sidebar = ({ isCollapsed, toggleSidebar }) => {
       className={`border-r border-slate-500 p-4 flex flex-col ${
         isCollapsed ? "w-[15%]" : "w-[50%]"
       }`}
+      style={{ height: "auto" }}
     >
       {!isCollapsed && (
         <>
